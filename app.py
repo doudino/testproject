@@ -7,5 +7,8 @@ def repeat(x,callback):
 def greetings():
     print ("bonjour python2 et python3")
 
+def gnouu():
+    pass
+    
 if __name__ == "__main__":
     repeat(3,greetings)
