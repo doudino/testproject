@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 
 def repeat(x,callback):
+    """bzzz bzzz !!"""
     for _ in range(x):
         callback()
         
 def greetings():
+    """gnag ganan gna gnagna"""
     print ("bonjour python2 et python3")
 
 def gnouu():
