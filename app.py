@@ -1,6 +1,6 @@
-#!/usr/bin/env python2
+#!/usr/bin/env python
 def greetings():
-    print "bonjour"
+    print ("bonjour python2 et python3")
 
 if __name__ == "__main__":
     greetings()
