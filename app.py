@@ -7,7 +7,9 @@ def repeat(x,callback):
         
 def greetings():
     """gnag ganan gna gnagna"""
+
     print ("bonjour le fork!")
+
 
 def gnouu():
     pass
